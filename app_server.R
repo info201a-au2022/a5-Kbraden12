@@ -47,7 +47,7 @@ server <- function(input, output) {
                     marker= list(size = 15), 
                     text= ~paste(plot_data$country, "<b>",plot_data$year, "<br>"),
                     hoverinfo = "text") %>%  
-                  layout(title = "CO2 per Capita vs CO2 per GDP (Tonnes per GDP)", xaxis = list(title = "CO2 per Capita (Tonnes per Person)"), yaxis= list(title = "CO2 per GDP"))
+                  layout(title = "CO2 per Capita vs CO2 per GDP", xaxis = list(title = "CO2 per Capita (Tonnes per Person)"), yaxis= list(title = "CO2 per GDP (Tonnes per GDP)"))
                     
                     return(plot)
   })
