@@ -1,0 +1,14 @@
+name: a5Kbraden
+title: a5Kbraden
+username:
+account: kbraden12
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7765251
+bundleId: 6569609
+url: https://kbraden12.shinyapps.io/a5Kbraden/
+when: 1669761484.0487
+lastSyncTime: 1669761484.04872
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: App Files/rsconnect/shinyapps.io/kbraden12/BradenA5.dcf|App Files/server.R|App Files/ui.R|Data/owid-co2-data.csv|LICENSE|owid-co2-data.csv|README.md|AppDocuments

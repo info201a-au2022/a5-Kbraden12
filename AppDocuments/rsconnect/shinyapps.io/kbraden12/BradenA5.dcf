@@ -1,0 +1,14 @@
+name: BradenA5
+title: BradenA5
+username:
+account: kbraden12
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7743476
+bundleId: 6568866
+url: https://kbraden12.shinyapps.io/BradenA5/
+when: 1669749294.28464
+lastSyncTime: 1669749294.2847
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
